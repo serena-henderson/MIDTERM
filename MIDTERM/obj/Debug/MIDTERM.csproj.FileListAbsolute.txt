@@ -1,0 +1,10 @@
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\bin\Debug\MIDTERM.exe.config
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\bin\Debug\MIDTERM.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\bin\Debug\MIDTERM.pdb
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.csprojAssemblyReference.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.Form1.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.Properties.Resources.resources
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.exe
+C:\Users\super\OneDrive\Desktop\CMPS 480\MIDTERM\obj\Debug\MIDTERM.pdb
